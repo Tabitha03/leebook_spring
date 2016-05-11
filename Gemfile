@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'public_activity'
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'gravatarify', '~> 3.0.0'
 gem 'devise'
 gem 'simple_form'
